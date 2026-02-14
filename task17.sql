@@ -1,0 +1,1 @@
+-- Write an SQL statement that uses all of the SQL built-in functions on the QuantityOnHand column. Include meaningful column names in the result.task16

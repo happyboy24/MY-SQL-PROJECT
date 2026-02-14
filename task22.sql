@@ -1,0 +1,3 @@
+-- In your answer to Review Question 2.38, was the WHERE clause or the HAVING clause applied first? Why?
+-- WHERE filters individual rows → it acts on the raw data before any grouping or aggregation happens
+-- HAVING filters groups → it can only see aggregated results (SUM, COUNT, AVG, etc.) and therefore must come after GROUP BY
